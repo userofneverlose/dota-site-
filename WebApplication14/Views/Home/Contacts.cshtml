@@ -1,0 +1,28 @@
+﻿@model WebApplication14.Models.ContactModel
+@{
+    ViewData["Title"] = "Контакты";
+}
+
+<h1>Контакты</h1>
+
+<div class="block">
+    <p>Если у вас есть вопросы или предложения, напишите нам.</p>
+    <ul>
+        <li>Email: prikolprivet@gmail.lox</li>
+        <li>Телефон: +52 67 14 00 88</li>
+    </ul>
+</div>
+
+<div class="block">
+    <h2>Форма обратной связи</h2>
+    <p>@TempData["Message"]</p>
+    <form asp-action="Contacts" method="post">
+        <p>Имя: <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name"></span></p>
+        <p>Email: <input asp-for="Email" class="form-control" />
+            <span asp-validation-for="Email"></span></p>
+        <p>Сообщение: <textarea asp-for="Message" class="form-control"></textarea>
+            <span asp-validation-for="Message"></span></p>
+        <button type="submit" class="btn btn-primary">Отправить</button>
+    </form>
+</div>

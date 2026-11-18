@@ -1,0 +1,7 @@
+C:\Users\Взрослая академия\source\repos\WebApplication14\WebApplication14\obj\Debug\net8.0\Dota site.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Взрослая академия\source\repos\WebApplication14\WebApplication14\obj\Debug\net8.0\Dota site.AssemblyInfoInputs.cache
+C:\Users\Взрослая академия\source\repos\WebApplication14\WebApplication14\obj\Debug\net8.0\Dota site.AssemblyInfo.cs
+C:\Users\Взрослая академия\source\repos\WebApplication14\WebApplication14\obj\Debug\net8.0\Dota site.csproj.CoreCompileInputs.cache
+C:\Users\Взрослая академия\source\repos\WebApplication14\WebApplication14\obj\Debug\net8.0\Dota site.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Взрослая академия\source\repos\WebApplication14\WebApplication14\obj\Debug\net8.0\Dota site.RazorAssemblyInfo.cache
+C:\Users\Взрослая академия\source\repos\WebApplication14\WebApplication14\obj\Debug\net8.0\Dota site.RazorAssemblyInfo.cs

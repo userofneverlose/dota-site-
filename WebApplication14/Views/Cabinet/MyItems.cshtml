@@ -1,0 +1,22 @@
+@model List<WebApplication14.Models.Item>
+@{
+    ViewData["Title"] = "Мои записи";
+}
+
+<h1>Мои записи</h1>
+<partial name="_CabinetMenu" />
+
+<p><a class="btn btn-primary" asp-action="Create">Добавить запись</a></p>
+
+@foreach (var item in Model)
+{
+    <div class="block">
+        <h2>@item.Title</h2>
+        <p>@item.Description</p>
+        <p>Цена: @item.Price золота</p>
+        <a class="btn btn-primary" asp-action="Edit" asp-route-id="@item.Id">Изменить</a>
+        <form asp-action="Delete" asp-route-id="@item.Id" method="post" style="display:inline" onsubmit="return confirm('Удалить запись?');">
+            <button type="submit" class="btn btn-primary">Удалить</button>
+        </form>
+    </div>
+}

@@ -1,0 +1,19 @@
+@model WebApplication14.Models.ItemFormModel
+@{
+    ViewData["Title"] = "Добавить запись";
+}
+
+<h1>Добавить запись</h1>
+<partial name="_CabinetMenu" />
+
+<div class="block">
+    <form asp-action="Create" method="post">
+        <p>Название: <input asp-for="Title" class="form-control" />
+            <span asp-validation-for="Title"></span></p>
+        <p>Описание: <textarea asp-for="Description" class="form-control"></textarea>
+            <span asp-validation-for="Description"></span></p>
+        <p>Цена: <input asp-for="Price" class="form-control" />
+            <span asp-validation-for="Price"></span></p>
+        <button type="submit" class="btn btn-primary">Сохранить</button>
+    </form>
+</div>

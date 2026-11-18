@@ -1,0 +1,13 @@
+@model WebApplication14.Models.Item
+@{
+    ViewData["Title"] = Model.Title;
+}
+
+<h1>@Model.Title</h1>
+
+<div class="block">
+    <p>@Model.Description</p>
+    <p>Цена: @Model.Price золота</p>
+</div>
+
+<p><a class="btn btn-primary" asp-controller="Items" asp-action="Index">Назад в каталог</a></p>

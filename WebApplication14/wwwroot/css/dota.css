@@ -1,0 +1,72 @@
+/* стили для страницы About */
+
+/* фон страницы */
+.about-page {
+    background-color: #241f36;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* заголовок */
+.about-title {
+    color: #b38bff;
+    font-size: 42px;
+    text-align: center;
+    border-bottom: 3px solid #b38bff;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+/* вводный текст */
+.about-text {
+    color: #e8e8e8;
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 25px;
+}
+
+/* карточка */
+.card-item {
+    background-color: #2b2540;
+    color: #e8e8e8;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 12px;
+    box-shadow: 3px 3px 10px black;
+}
+
+.card-item h2 {
+    color: #b38bff;
+    font-size: 24px;
+}
+
+/* при наведении мышки */
+.card-item:hover {
+    background-color: #3a3258;
+}
+
+/* кнопка */
+.btn-about {
+    background-color: #b38bff;
+    color: #1f1b2e;
+    padding: 10px 30px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.btn-about:hover {
+    background-color: white;
+    color: #1f1b2e;
+}
+
+/* для телефонов */
+@media (max-width: 576px) {
+    .about-title {
+        font-size: 28px;
+    }
+
+    .about-page {
+        padding: 10px;
+    }
+}

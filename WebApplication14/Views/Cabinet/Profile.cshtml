@@ -1,0 +1,20 @@
+@model WebApplication14.Models.ProfileModel
+@{
+    ViewData["Title"] = "Профиль";
+}
+
+<h1>Профиль</h1>
+<partial name="_CabinetMenu" />
+
+<div class="block">
+    <p>Дата регистрации: @Model.RegisteredAt.ToString("dd.MM.yyyy")</p>
+    <p>@TempData["Message"]</p>
+    <form asp-action="Profile" method="post">
+        <input type="hidden" asp-for="RegisteredAt" />
+        <p>Имя: <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name"></span></p>
+        <p>Email: <input asp-for="Email" class="form-control" />
+            <span asp-validation-for="Email"></span></p>
+        <button type="submit" class="btn btn-primary">Сохранить</button>
+    </form>
+</div>

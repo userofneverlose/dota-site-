@@ -1,0 +1,11 @@
+@model List<WebApplication14.Models.Item>
+@{
+    ViewData["Title"] = "Каталог";
+}
+
+<h1>Каталог предметов</h1>
+
+@foreach (var item in Model)
+{
+    <partial name="_Card" model="item" />
+}

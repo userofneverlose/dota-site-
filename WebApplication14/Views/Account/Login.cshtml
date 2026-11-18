@@ -1,0 +1,17 @@
+@model WebApplication14.Models.LoginModel
+@{
+    ViewData["Title"] = "Вход";
+}
+
+<h1>Вход</h1>
+
+<div class="block">
+    <form asp-action="Login" method="post">
+        <div asp-validation-summary="ModelOnly"></div>
+        <p>Email: <input asp-for="Email" class="form-control" />
+            <span asp-validation-for="Email"></span></p>
+        <p>Пароль: <input asp-for="Password" type="password" class="form-control" />
+            <span asp-validation-for="Password"></span></p>
+        <button type="submit" class="btn btn-primary">Войти</button>
+    </form>
+</div>

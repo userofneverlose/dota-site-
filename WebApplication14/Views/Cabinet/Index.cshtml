@@ -1,0 +1,12 @@
+@{
+    ViewData["Title"] = "Личный кабинет";
+}
+
+<h1>Личный кабинет</h1>
+<partial name="_CabinetMenu" />
+
+<div class="block">
+    <p>Добро пожаловать, @User.Identity.Name!</p>
+    <p>У вас @ViewBag.Count записей.</p>
+    <a class="btn btn-primary" asp-action="Create">Добавить запись</a>
+</div>

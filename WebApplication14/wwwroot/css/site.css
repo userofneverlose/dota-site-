@@ -1,0 +1,132 @@
+/* общие стили сайта про Dota 2 */
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    background-color: #1f1b2e;
+    font-family: Arial, sans-serif;
+    color: #e8e8e8;
+    margin-bottom: 60px;
+}
+
+/* шапка */
+.navbar {
+    background-color: #2b2540 !important;
+    border-bottom: 2px solid #b38bff;
+}
+
+.navbar a {
+    color: #b38bff !important;
+}
+
+.navbar a:hover {
+    color: #ffffff !important;
+}
+
+/* заголовки */
+h1 {
+    color: #b38bff;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+h2 {
+    color: #b38bff;
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+p, li {
+    font-size: 17px;
+    line-height: 1.6;
+}
+
+/* блок с текстом */
+.block {
+    background-color: #2b2540;
+    border-left: 4px solid #b38bff;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 2px 2px 8px black;
+}
+
+.block:hover {
+    background-color: #342d4d;
+}
+
+/* картинки */
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin: 15px 0;
+}
+
+/* ссылки */
+a {
+    color: #b38bff;
+}
+
+a:hover {
+    color: #ffffff;
+}
+
+/* кнопки */
+.btn-primary {
+    background-color: #b38bff;
+    border-color: #b38bff;
+    color: #1f1b2e;
+    padding: 10px 25px;
+    border-radius: 20px;
+}
+
+.btn-primary:hover {
+    background-color: #9a6fe8;
+    border-color: #9a6fe8;
+    color: #1f1b2e;
+}
+
+/* поля форм */
+.form-control {
+    background-color: #3a3258;
+    color: #ffffff;
+    border: 1px solid #b38bff;
+}
+
+.form-control:focus {
+    background-color: #3a3258;
+    color: #ffffff;
+}
+
+/* сообщения об ошибках валидации */
+.field-validation-error {
+    color: #ff9aa2;
+}
+
+/* подвал */
+.footer {
+    background-color: #2b2540;
+    color: #aaaaaa !important;
+    border-top: 1px solid #b38bff;
+}
+
+/* для телефонов */
+@media (max-width: 576px) {
+    h1 {
+        font-size: 28px;
+    }
+
+    .block {
+        padding: 12px;
+    }
+
+    .btn {
+        width: 100%;
+        margin-bottom: 8px;
+    }
+}

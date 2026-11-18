@@ -1,0 +1,106 @@
+C:\Users\Взрослая академия\source\repos\WebApplication14\WebApplication14\obj\Debug\net8.0\Dota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Взрослая академия\source\repos\WebApplication14\WebApplication14\obj\Debug\net8.0\Dota.AssemblyInfoInputs.cache
+C:\Users\Взрослая академия\source\repos\WebApplication14\WebApplication14\obj\Debug\net8.0\Dota.AssemblyInfo.cs
+C:\Users\Взрослая академия\source\repos\WebApplication14\WebApplication14\obj\Debug\net8.0\Dota.csproj.CoreCompileInputs.cache
+C:\Users\Взрослая академия\source\repos\WebApplication14\WebApplication14\obj\Debug\net8.0\Dota.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Взрослая академия\source\repos\WebApplication14\WebApplication14\obj\Debug\net8.0\Dota.RazorAssemblyInfo.cache
+C:\Users\Взрослая академия\source\repos\WebApplication14\WebApplication14\obj\Debug\net8.0\Dota.RazorAssemblyInfo.cs
+C:\Users\Взрослая академия\source\repos\WebApplication14\WebApplication14\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Взрослая академия\source\repos\WebApplication14\WebApplication14\bin\Debug\net8.0\appsettings.json
+C:\Users\Взрослая академия\source\repos\WebApplication14\WebApplication14\bin\Debug\net8.0\Dota.staticwebassets.runtime.json
+C:\Users\Взрослая академия\source\repos\WebApplication14\WebApplication14\bin\Debug\net8.0\Dota.exe
+C:\Users\Взрослая академия\source\repos\WebApplication14\WebApplication14\bin\Debug\net8.0\Dota.deps.json
+C:\Users\Взрослая академия\source\repos\WebApplication14\WebApplication14\bin\Debug\net8.0\Dota.runtimeconfig.json
+C:\Users\Взрослая академия\source\repos\WebApplication14\WebApplication14\bin\Debug\net8.0\Dota.dll
+C:\Users\Взрослая академия\source\repos\WebApplication14\WebApplication14\bin\Debug\net8.0\Dota.pdb
+C:\Users\Взрослая академия\source\repos\WebApplication14\WebApplication14\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Взрослая академия\source\repos\WebApplication14\WebApplication14\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Взрослая академия\source\repos\WebApplication14\WebApplication14\obj\Debug\net8.0\staticwebassets\msbuild.Dota.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Взрослая академия\source\repos\WebApplication14\WebApplication14\obj\Debug\net8.0\staticwebassets\msbuild.build.Dota.props
+C:\Users\Взрослая академия\source\repos\WebApplication14\WebApplication14\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Dota.props
+C:\Users\Взрослая академия\source\repos\WebApplication14\WebApplication14\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Dota.props
+C:\Users\Взрослая академия\source\repos\WebApplication14\WebApplication14\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Взрослая академия\source\repos\WebApplication14\WebApplication14\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Взрослая академия\source\repos\WebApplication14\WebApplication14\obj\Debug\net8.0\scopedcss\bundle\Dota.styles.css
+C:\Users\Взрослая академия\source\repos\WebApplication14\WebApplication14\obj\Debug\net8.0\scopedcss\projectbundle\Dota.bundle.scp.css
+C:\Users\Взрослая академия\source\repos\WebApplication14\WebApplication14\obj\Debug\net8.0\Dota.dll
+C:\Users\Взрослая академия\source\repos\WebApplication14\WebApplication14\obj\Debug\net8.0\refint\Dota.dll
+C:\Users\Взрослая академия\source\repos\WebApplication14\WebApplication14\obj\Debug\net8.0\Dota.pdb
+C:\Users\Взрослая академия\source\repos\WebApplication14\WebApplication14\obj\Debug\net8.0\Dota.genruntimeconfig.cache
+C:\Users\Взрослая академия\source\repos\WebApplication14\WebApplication14\obj\Debug\net8.0\ref\Dota.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\obj\Debug\net8.0\Dota.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\obj\Debug\net8.0\refint\Dota.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\obj\Debug\net8.0\Dota.pdb
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\appsettings.json
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\Dota.staticwebassets.runtime.json
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\Dota.staticwebassets.endpoints.json
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\Dota.exe
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\Dota.deps.json
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\Dota.runtimeconfig.json
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\Dota.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\Dota.pdb
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\obj\Debug\net8.0\Dota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\obj\Debug\net8.0\Dota.AssemblyInfoInputs.cache
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\obj\Debug\net8.0\Dota.AssemblyInfo.cs
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\obj\Debug\net8.0\Dota.csproj.CoreCompileInputs.cache
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\obj\Debug\net8.0\Dota.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\obj\Debug\net8.0\Dota.RazorAssemblyInfo.cache
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\obj\Debug\net8.0\Dota.RazorAssemblyInfo.cs
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\obj\Debug\net8.0\scopedcss\bundle\Dota.styles.css
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\obj\Debug\net8.0\scopedcss\projectbundle\Dota.bundle.scp.css
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\obj\Debug\net8.0\Dota.genruntimeconfig.cache
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\obj\Debug\net8.0\ref\Dota.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\obj\Debug\net8.0\Dota.sourcelink.json
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\Microsoft.Data.SqlClient.Internal.Logging.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\obj\Debug\net8.0\Dota.csproj.AssemblyReference.cache
+C:\Users\usero\OneDrive\Desktop\AspNetProject-main\WebApplication14\obj\Debug\net8.0\Dota.csproj.Up2Date
